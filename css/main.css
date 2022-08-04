@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+h1{
+    background-color: rgb(133,189,117);
+    color: white;
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    }
+ul {
+list-style-type: none;
+}
+li{
+    color: rgb(255,151,41);
+    font-size: 20px:
+}
+.input {
+    border: 2px solid rgb(133,189,117);
+}
+.skill{
+    border: 2px solid rgb(133,189,117);
+    background-color: white;
+    color: rgb(133,189,117);
+}
